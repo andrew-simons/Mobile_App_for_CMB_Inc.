@@ -90,12 +90,12 @@ The current version of the app was developed independently by me.
 ## App Screens
 
 <p float="left">
-  <img src="images/CMB-HomePage.PNG" width="150" />
-  <img src="images/CMB-UpcomingEvents.PNG" width="150" />
-  <img src="images/CMB-UpcomingEvents(Admin).PNG" width="150" />
-  <img src="images/CMB-ClaimVolunteerHours.PNG" width="150" />
-  <img src="images/CMB-SideMenu.PNG" width="150" />
-  <img src="images/CMB-LoginPage.PNG" width="150" />
+  <img src="images/CMB-HomePage.PNG" width="130" />
+  <img src="images/CMB-UpcomingEvents.PNG" width="130" />
+  <img src="images/CMB-UpcomingEvents(Admin).PNG" width="130" />
+  <img src="images/CMB-ClaimVolunteerHours.PNG" width="130" />
+  <img src="images/CMB-SideMenu.PNG" width="130" />
+  <img src="images/CMB-LoginPage.PNG" width="130" />
 </p>
 
 ---
