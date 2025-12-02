@@ -44,6 +44,7 @@ This app streamlines event organization and volunteer management:
 This repository contains the Flutter + Firebase codebase for the official CMB mobile app.
 
 The current version of the app was developed independently by me.
+
 ---
 
 ## 🚀 Features
