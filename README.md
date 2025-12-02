@@ -89,14 +89,13 @@ The current version of the app was developed independently by me.
 
 ## App Screens
 
-You can add screenshots here like:
 <p float="left">
-  <img src="images/CMB-HomePage.PNG" width="250" />
-  <img src="images/CMB-UpcomingEvents.PNG" width="250" />
-  <img src="images/CMB-UpcomingEvents(Admin).PNG" width="250" />
-  <img src="images/CMB-ClaimVolunteerHours.PNG" width="250" />
-  <img src="images/CMB-SideMenu.PNG" width="250" />
-  <img src="images/CMB-LoginPage.PNG" width="250" />
+  <img src="images/CMB-HomePage.PNG" width="160" />
+  <img src="images/CMB-UpcomingEvents.PNG" width="160" />
+  <img src="images/CMB-UpcomingEvents(Admin).PNG" width="160" />
+  <img src="images/CMB-ClaimVolunteerHours.PNG" width="160" />
+  <img src="images/CMB-SideMenu.PNG" width="160" />
+  <img src="images/CMB-LoginPage.PNG" width="160" />
 </p>
 
 ---
